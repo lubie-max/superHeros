@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+
+}
+
+h1{
+    font-family: sans-serif;
+    color: rgb(52, 227, 131);
+    letter-spacing: 3px;
+    font-weight: 900;
+    
+}
+
+body{
+    background: rgba(0, 0, 0, 0.9);
+
+}
+
+.main{
+    display: flex;
+    padding: 40px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 550px;
+    height: auto;
+    /* padding:  auto 200px; */
+    border: 4px solid blanchedalmond;
+    border-radius: 30px;
+    margin: 50px auto ;
+
+    box-shadow: 0 4px 8px 0 rgba(51, 78, 79, 0.2);
+
+    
+    
+}
+
+input{
+    padding: 10px 50px;
+   
+    width: 280px;
+    height: 40px;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    background: rgba(52, 227, 131, 0.9);
+
+    color: rgb(3, 25, 23);
+    font-family: cursive;
+    letter-spacing: 1.5px;
+    font-size: larger;
+  
+}
+
+#search{
+    border:2px rgb(19, 19, 212);
+    justify-items: center;
+    height: 40px;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    border-radius: 15px;
+    /* border:2px solid rgb(40, 217, 237); */
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 2px;
+    font-size: 900;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+
+#superHerobtn{
+    height: 40px;
+    width: auto;
+    padding: auto 30px;
+    border-radius: 15px;
+    margin: 20px;
+    letter-spacing: 2px;
+    line-height: 2px;
+    font-size: 900;
+    font-weight: 700;
+   
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.about{
+    width: 350px;
+    height: 500px;
+    margin: 15px;
+
+    color: rgb(58, 206, 172);
+
+
+
+
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+    border: none;
+
+    box-shadow: 0 4px 8px 0 rgba(51, 78, 79, 0.2);
+    transition: 0.3s;
+}
+
+
+
+
+.about:hover{
+    box-shadow: 0 8px 16px 0 rgba(26, 182, 187, 0.893);
+
+}
+
+
+
+.about img{
+    height: 100%;
+    width: 100%;
+
+}
+
+.about div:nth-of-type(2) span {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   left: 0;
+
+   z-index: 2;
+   background-color: #343739;
+    padding: 16px 24px 24px  24px;
+
+}
+
+
+#name{
+    text-align: center;
+    
+}
+.powerstats {
+    padding: 2px 16px;
+}
+
+
+.container{
+  
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    }
+
+  /* card */
