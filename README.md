@@ -27,3 +27,6 @@ const TOKEN = '749814503011060'  // 👈 token for the API
 
 ➡ 👉 onclick event listener to the search button and passing searchSuperHero() to it 
 
+
+
+🟣 Have Greate Weak ahead. 🟣
