@@ -32,4 +32,4 @@ const TOKEN = '749814503011060'  // 👈 token for the API
 
 
 
-🟣 Have Greate Weak ahead. 🟣
+🟣 Have Greate Week ahead. 🟣
