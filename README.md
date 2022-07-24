@@ -11,10 +11,13 @@ const TOKEN = '749814503011060'  // 👈 token for the API
 
 
 ➡ 👉 Getting HTML elements by their IDs 
+
 ➡ 👉👉  Random superhero Functionallity. 👈👈
+
 ➡ 👉 Button to get Random Superhero  
 
-➡ 👉 Random Fuctionallity to get random superhero among 731 superheros 
+➡ 👉 Random Fuctionallity to get random superhero among 731 superheros.
+
 ➡ 👉 adding onclick event to 'newSuperHeroBtn' and getSuperHero() function to it 
 
 ➡ 👉 Searching super hero with name >>Functionallity.  
